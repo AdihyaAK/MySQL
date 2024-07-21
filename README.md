@@ -1,0 +1,1 @@
+This project is designed to showcase the effective use of MySQL for managing and manipulating relational databases. MySQL, an open-source relational database management system, is highly acclaimed for its reliability, ease of use, and robustness. In this project, we aim to demonstrate these features through practical implementation and detailed examples
